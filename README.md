@@ -14,7 +14,8 @@ including:
 * Study Hours
 * Sleep Hours
 * Notifications Per Day
-as well as overall ratings
+
+as well as overall ratings:
 * Focus Score
 * Addiction level
 * Productivity Score
