@@ -16,6 +16,7 @@ including:
 * Notifications Per Day
 
 as well as overall ratings:
+
 * Focus Score
 * Addiction level
 * Productivity Score
